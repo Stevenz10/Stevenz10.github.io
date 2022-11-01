@@ -1,4 +1,3 @@
-import './style.css';
 import * as THREE from 'https://threejsfundamentals.org/threejs/resources/threejs/r122/build/three.module.js';
 
 // Setup
